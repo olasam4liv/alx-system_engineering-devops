@@ -1,1 +1,2 @@
-sudo useradd username
+#!/bin/bash
+sudo useradd username \n 
