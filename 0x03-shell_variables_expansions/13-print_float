@@ -1,3 +1,2 @@
 #!/bin/bash
-NUM=31.14
-echo $NUM
+NUM=31.14 echo $NUM
