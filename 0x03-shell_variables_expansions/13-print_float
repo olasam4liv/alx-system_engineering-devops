@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=21.31 echo $NUM
+NUM=21.31 printf "%89.00f\n" $NUM
