@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM=21.23 echo $NUM
+NUM=21.31 echo $NUM
